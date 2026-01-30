@@ -1,6 +1,6 @@
 # Punith Akash Balachandran
 
-![Headshot](headshot.jpg)
+![photo](photo.jpge)
 
 **Email:** punithb1@umbc.edu  
 **Phone:** +1 410-710-4268  
