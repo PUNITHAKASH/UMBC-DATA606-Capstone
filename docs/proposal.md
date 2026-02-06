@@ -7,7 +7,7 @@
 ---
 
 ## 🔗 Project Links
-* **GitHub Repository:** [Vamshi267/UMBC-DATA606-Capstone](https://github.com/Vamshi267/UMBC-DATA606-Capstone)
+* **GitHub Repository:** [https://github.com/PUNITHAKASH/UMBC-DATA606-Capstone]
 * **LinkedIn Profile:** [Punith Akash Balachandran](https://www.linkedin.com/in/punith-akash-a145a024a/)
 * **PowerPoint Presentation:** *To be added*
 * **YouTube Video:** *To be added*
