@@ -7,8 +7,8 @@
 | **Author** | Punith Akash Balachandran |
 | **GitHub** | [UMBC-DATA606-Capstone](https://github.com/PUNITHAKASH/UMBC-DATA606-Capstone) |
 | **LinkedIn** | [punith-akash-a145a024a](https://www.linkedin.com/in/punith-akash-a145a024a/) |
-| **PowerPoint** | *(To be added)* |
-| **YouTube** | *(To be added)* |
+| **PowerPoint** | *(https://youtu.be/Y12QAFjHgdM)* |
+| **YouTube** | *(https://www.youtube.com/channel/UCJ67cjhZxqNShl35LATjLwQ)* |
 
 ---
 
