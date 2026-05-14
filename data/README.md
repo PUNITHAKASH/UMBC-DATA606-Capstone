@@ -76,8 +76,8 @@ This folder contains all raw datasets used in the **AgroIntel** capstone project
 | Dataset | Link |
 |---|---|
 | Crop Recommendation | [Kaggle](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset) |
-| Irrigation Prediction | Kaggle *(add exact link)* |
-| IoT Sensor Data | Kaggle *(add exact link)* |
+| Irrigation Prediction | Kaggle *(-)* |
+| IoT Sensor Data | Kaggle *(-)* |
 
 ---
 
