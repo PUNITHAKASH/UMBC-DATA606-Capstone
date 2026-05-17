@@ -9,8 +9,8 @@
 ## 🔗 Project Links
 * **GitHub Repository:** [https://github.com/PUNITHAKASH/UMBC-DATA606-Capstone]
 * **LinkedIn Profile:** [Punith Akash Balachandran](https://www.linkedin.com/in/punith-akash-a145a024a/)
-* **PowerPoint Presentation:** *To be added*
-* **YouTube Video:** *To be added*
+* **PowerPoint Presentation:** https://youtu.be/Y12QAFjHgdM
+* **YouTube Video:** 
 
 ---
 
