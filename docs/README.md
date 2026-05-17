@@ -1,10 +1,10 @@
-# 📄 docs/
+#  Docs
 
 This folder contains all project documentation for the **AgroIntel** UMBC Data Science Capstone project.
 
 ---
 
-## 📁 Folder Contents
+##  Folder Contents
 
 | File | Description |
 |---|---|
@@ -16,7 +16,7 @@ This folder contains all project documentation for the **AgroIntel** UMBC Data S
 
 ---
 
-## 📋 Final Report Sections
+##  Final Report Sections
 
 The `final_report.md` covers all 8 required capstone sections:
 
@@ -31,7 +31,7 @@ The `final_report.md` covers all 8 required capstone sections:
 
 ---
 
-## 🖼️ Assets Folder
+##  Assets Folder
 
 | File | Description |
 |---|---|
@@ -41,10 +41,10 @@ The `final_report.md` covers all 8 required capstone sections:
 
 ---
 
-## 🔗 Quick Links
+##  Quick Links
 
-- 📘 [Final Report](./final_report.md)
-- 📝 [Proposal](./proposal.md)
-- 💼 [Author Resume](./resume.md)
-- 🐙 [GitHub Repository](https://github.com/PUNITHAKASH/UMBC-DATA606-Capstone)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/punith-akash-a145a024a/)
+-  [Final Report](./final_report.md)
+-  [Proposal](./proposal.md)
+-  [Author Resume](./resume.md)
+-  [GitHub Repository](https://github.com/PUNITHAKASH/UMBC-DATA606-Capstone)
+-  [LinkedIn](https://www.linkedin.com/in/punith-akash-a145a024a/)
