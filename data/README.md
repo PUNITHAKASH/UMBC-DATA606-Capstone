@@ -1,10 +1,10 @@
-# 📊 data/
+# data
 
 This folder contains all raw datasets used in the **AgroIntel** capstone project.
 
 ---
 
-## 📁 Dataset Overview
+## Dataset Overview
 
 | File | Layer | Rows | Columns | Size |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ This folder contains all raw datasets used in the **AgroIntel** capstone project
 
 ---
 
-## 🌾 1. Crop_recommendation.csv
+## 1. Crop_recommendation.csv
 
 **Purpose:** Trains the crop recommendation model.
 **Each row:** One soil sample observation.
@@ -32,7 +32,7 @@ This folder contains all raw datasets used in the **AgroIntel** capstone project
 
 ---
 
-## 💧 2. irrigation_prediction.csv
+## 2. irrigation_prediction.csv
 
 **Purpose:** Trains the irrigation need classifier.
 **Each row:** One field irrigation decision snapshot.
@@ -51,7 +51,7 @@ This folder contains all raw datasets used in the **AgroIntel** capstone project
 
 ---
 
-## 🤖 3. irrigation_machine.csv
+## 3. irrigation_machine.csv
 
 **Purpose:** Trains the IoT valve actuation model.
 **Each row:** One IoT sensor grid reading from a field node.
@@ -63,7 +63,7 @@ This folder contains all raw datasets used in the **AgroIntel** capstone project
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 - All datasets are used read-only — no raw files are modified.
 - Categorical columns are label-encoded at training time; encoders saved to `encoders.pkl`.
@@ -71,7 +71,7 @@ This folder contains all raw datasets used in the **AgroIntel** capstone project
 
 ---
 
-## 🔗 Sources
+## Sources
 
 | Dataset | Link |
 |---|---|
@@ -81,8 +81,8 @@ This folder contains all raw datasets used in the **AgroIntel** capstone project
 
 ---
 
-## 🔗 Related
+##  Related
 
-- 📘 [Final Report](../docs/final_report.md)
-- 📓 [Notebooks](../notebooks/README.md)
-- 🐙 [GitHub Repository](https://github.com/PUNITHAKASH/UMBC-DATA606-Capstone)
+-  [Final Report](../docs/final_report.md)
+-  [Notebooks](../notebooks/README.md)
+-  [GitHub Repository](https://github.com/PUNITHAKASH/UMBC-DATA606-Capstone)
