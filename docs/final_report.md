@@ -90,7 +90,7 @@ Global agriculture faces a "dual challenge" of rising food demand and dwindling 
 
 ## 6. Application of the Trained Models
 
-**Tool:** Streamlit — selected for its ability to deliver enterprise-grade interactive dashboards with minimal overhead.
+**Tool:** Streamlit - selected for its ability to deliver enterprise-grade interactive dashboards with minimal overhead.
 
 ### Full Application View
 
@@ -102,7 +102,7 @@ The screenshot below shows the complete AgroIntel Pro interface with the Admin C
 
 ---
 
-### Admin Console — Input Configuration
+### Admin Console - Input Configuration
 
 The left-hand Admin Console allows users to configure all field parameters before deploying analytics:
 
