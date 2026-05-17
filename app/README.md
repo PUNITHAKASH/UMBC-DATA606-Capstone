@@ -1,10 +1,10 @@
-# 🚀 app/
+# App
 
 This folder contains the **AgroIntel Pro** Streamlit web application — the front-end interface that connects all three trained ML models into a unified real-time farming intelligence dashboard.
 
 ---
 
-## 📁 Folder Contents
+##  Folder Contents
 
 | File | Description |
 |---|---|
@@ -17,7 +17,7 @@ This folder contains the **AgroIntel Pro** Streamlit web application — the fro
 
 ---
 
-## ▶️ How to Run the App
+## How to Run the App
 
 ### Step 1 — Clone the Repository
 
@@ -48,7 +48,7 @@ streamlit run agro_streamlit.py
 
 ---
 
-## 🤖 ML Models Used
+##  ML Models Used
 
 | Model File | Algorithm | Task | Target |
 |---|---|---|---|
@@ -58,7 +58,7 @@ streamlit run agro_streamlit.py
 
 ---
 
-## ⚙️ Key App Features
+##  Key App Features
 
 | Feature | Description |
 |---|---|
@@ -70,7 +70,7 @@ streamlit run agro_streamlit.py
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 | Library | Purpose |
 |---|---|
@@ -78,11 +78,11 @@ streamlit run agro_streamlit.py
 | `pandas` | Data manipulation and feature vector construction |
 | `numpy` | Numerical operations and simulated IoT sensor values |
 | `scikit-learn` | Loading and running all `.pkl` model files and encoders |
-| `pickle` | Deserializing saved model files *(built into Python — no install needed)* |
+| `pickle` | Deserializing saved model files *(built into Python i.e no install needed)* |
 
 ---
 
-## ⚠️ Troubleshooting
+##  Troubleshooting
 
 | Error | Cause | Fix |
 |---|---|---|
@@ -93,9 +93,9 @@ streamlit run agro_streamlit.py
 
 ---
 
-## 🔗 Related
+## Related
 
-- 📘 [Final Report](../docs/final_report.md)
-- 📓 [Notebooks](../notebooks/README.md)
-- 📊 [Datasets](../data/README.md)
-- 🐙 [GitHub Repository](https://github.com/PUNITHAKASH/UMBC-DATA606-Capstone)
+-  [Final Report](../docs/final_report.md)
+-  [Notebooks](../notebooks/README.md)
+-  [Datasets](../data/README.md)
+-  [GitHub Repository](https://github.com/PUNITHAKASH/UMBC-DATA606-Capstone)
