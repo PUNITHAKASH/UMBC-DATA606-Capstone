@@ -6,15 +6,15 @@
 
 ---
 
-## 🔗 Project Links
+##  Project Links
 * **GitHub Repository:** [https://github.com/PUNITHAKASH/UMBC-DATA606-Capstone]
 * **LinkedIn Profile:** [Punith Akash Balachandran](https://www.linkedin.com/in/punith-akash-a145a024a/)
 * **PowerPoint Presentation:** https://youtu.be/Y12QAFjHgdM
-* **YouTube Video:** 
+* **YouTube Video:** https://www.youtube.com/channel/UCJ67cjhZxqNShl35LATjLwQ
 
 ---
 
-## 📖 Background
+##  Background
 
 ### What is it about?
 AgroIntel is an **Intelligent Agricultural Decision Support System** designed to bridge the gap between raw environmental data and actionable farming insights. The framework operates across three distinct layers:
@@ -38,7 +38,7 @@ Modern agriculture faces the dual challenge of rising food demand and dwindling 
 
 ---
 
-## 📊 Data Sources
+## Data Sources
 
 ### 1. Agricultural Planning & Prediction
 * **File:** `irrigation_prediction.csv`
