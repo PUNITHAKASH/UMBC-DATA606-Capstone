@@ -1,5 +1,8 @@
 # AgroIntel: A Multi-Model AI Framework for Optimized Crop Selection and Precision Irrigation
 
+**Author:** Punith Akash Balachandran  
+**Semester:** Spring 2026  
+**Project Title:** AgroIntel: A Multi-Model AI Framework for Optimized Crop Selection and Precision Irrigation
 **Prepared for:** UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang
 
 | | |
@@ -12,13 +15,6 @@
 
 ---
 
-## 1. Title and Author
-
-**Project Title:** AgroIntel: A Multi-Model AI Framework for Optimized Crop Selection and Precision Irrigation
-
-**Author:** Punith Akash Balachandran
-
----
 
 ## 2. Background
 
