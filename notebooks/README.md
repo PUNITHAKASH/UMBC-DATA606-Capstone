@@ -1,11 +1,11 @@
 
-# 📓 notebooks/
+#  notebooks/
 
 This folder contains all Jupyter Notebooks used for data exploration, model training, and evaluation in the **AgroIntel** capstone project.
 
 ---
 
-## 📁 Notebook Index
+##  Notebook Index
 
 | Notebook | Purpose | Key Output |
 |---|---|---|
@@ -18,4 +18,4 @@ This folder contains all Jupyter Notebooks used for data exploration, model trai
 
 ---
 
-## 🔄 Run Order
+##  Run Order
