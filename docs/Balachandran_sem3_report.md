@@ -174,7 +174,12 @@ Once analytics are deployed, the main dashboard renders three layers of output:
 
 ---
 
-## 8. References
+### 8. Future Research Direction
+* Transition from localized sensor readings to area-based health tracking by utilizing satellite remote sensing and NDVI data streams.
+* Dynamically align regional crop selections with financial profitability metrics by integrating active commodity marketplace pricing APIs.
+* Expand node management scalability through decentralized multi-farm mesh network integrations.
+
+## 9. References
 
 1. Dr. Chaojie Wang — UMBC Data Science Capstone Guidelines.
 2. Scikit-learn Documentation. [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)
